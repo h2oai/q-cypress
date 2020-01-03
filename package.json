@@ -1,8 +1,9 @@
 {
-  "name": "q-tester",
+  "name": "q-cypress",
   "version": "1.0.0",
   "description": "Q Test Server",
   "main": "index.js",
+  "repository": "https://github.com/h2oai/q-cypress",
   "scripts": {
     "start": "cypress open",
     "test": "cypress run"

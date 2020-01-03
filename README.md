@@ -7,8 +7,8 @@ This is an extended version of the [Cypress.io](https://www.cypress.io/) test au
 [Download and install Node.js LTS](https://nodejs.org/en/download/), then clone this repo and run `npm install`:
 
 ```bash
-git clone https://github.com/h2oai/q-tester.git
-cd q-tester
+git clone https://github.com/h2oai/q-cypress.git
+cd q-cypress
 npm install
 ```
 
